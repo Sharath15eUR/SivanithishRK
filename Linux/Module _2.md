@@ -17,19 +17,21 @@ Basics Of System Administration in Linux
 
 2) Set the user account "Duck's" expirey date as 07 - 01 - 2015
          sudo usermod -e 2015-01-07 duck
+         ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/a63e17c3-d04a-446b-90bf-30373535ea20)
+
          
 
-3) find the id of the user account "Duck"
+4) find the id of the user account "Duck"
          id-u
 
-4) Type df and du commands and see the output on your terminal.
+5) Type df and du commands and see the output on your terminal.
         
 
-5) Type this command on the terminal and see the output :
+6) Type this command on the terminal and see the output :
    du -ch *.txt
         It shows  memory of the text files in the directory
         
 
-6) Delete the user account "Duck" permanently along with its home folder.
+7) Delete the user account "Duck" permanently along with its home folder.
         sudo userdel -r duck
    
