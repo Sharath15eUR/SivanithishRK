@@ -81,6 +81,22 @@ PASTE COMMAND
 
 ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/a819a9ea-413a-406b-84fe-b4f75f6cda75)
 
+            paste number.txt marks.txt
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/6012033d-7a1c-4682-a0c0-41ef59a274b9)
+
+          paste -s number.txt
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/6f941707-d23f-4b24-9217-56904832b463)
+
+
+         cat > alphabets.txt
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/eaa692fc-f07c-4856-b5f6-13654a72b83e)
+
+         cat > number.txt
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/ea46fb76-1428-4478-9ba9-7b30d6c2fb25)
+
+         paste number.txt alphabets.txt
+
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/1df61621-fc4c-4940-8bde-bc088f4d4c3b)
 
 
 
