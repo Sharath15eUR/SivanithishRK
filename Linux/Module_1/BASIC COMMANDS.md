@@ -3,35 +3,14 @@ Assignment 4:BASIC COMMANDS
   1) Commands are actually files containing programs, often written in C.
      How will you find out in which directory does  the file corresponding to the man command 
      resides?
-        Type man
+
+            Type man
   2)How will you find out what is the use of the ps command.
+        
         man ps
         whatis ps
 
 
-Assignment 5:General Purpose Utilities in Linux
-   1)Display the calender for the month of March 2012
-        cal 03 2012
-   2)List all the files and directories of the directory /usr/lib on the terminal. Now put 
-     the same information in a file named results. Display the contents of the file results now.
-         ls /user/bin
-         ls -l > results
-         cat results
-
-
-Assignment 6:File Systems 
-    1)Make a directory structure like this in your home directory.
-         mkdir demodir
-         cd demodir
-         mkdir inside_demo also_inside_demo
-         mkdir also_inside_demo/abc also_inside_demo/abc_123
-
-   2) Remove the also_inside_demo directory.
-         Rmdir abc abc_123
-         Cd demodir
-         Rmdir also_inside_demo
-              OR
-         rm-rf also_inside_demo
 
 
 Assignment 8:File Attributes:
