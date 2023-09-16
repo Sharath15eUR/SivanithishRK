@@ -127,7 +127,15 @@ SORT COMMAND
 
 CUT COMMAND
 
-![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/438f116b-53ec-40e6-aab1-a7a0a55f03c3)
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/ce26a14a-b19b-4c6a-ac71-4c23c2d3b3ca)
+
+
+
+PASTE COMMAND
+
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/a819a9ea-413a-406b-84fe-b4f75f6cda75)
+
+
 
 
 
