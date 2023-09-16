@@ -67,6 +67,14 @@ CUT COMMAND
 
 ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/ce26a14a-b19b-4c6a-ac71-4c23c2d3b3ca)
 
+         cut marks.txt -d " " -f2
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/b33d72f4-a549-4a10-8b91-5330fc6dfc2f)
+
+         cut /etc/passwd -d ":" -f1
+
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/621a4ebf-59d2-4732-b261-29ab4d9ad641)
+
+
 
 
 PASTE COMMAND
