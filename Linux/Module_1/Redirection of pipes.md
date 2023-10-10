@@ -12,8 +12,8 @@ Assgnment 9:Redirection of Pipes
    name using only a single line command ?
 
 
-         cat test1
-         cat test2
-         cat testa
-         cat testb
+         touch test1
+         touch test2
+         touch testa
+         touch testb
          ls | grep -E "test[0-9]" | wc -l
