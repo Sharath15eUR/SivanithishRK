@@ -18,8 +18,8 @@ Basics of Shell Scripting
    Hint: read -t 10 -p
 
            #!/bin/bash
-           read -t 10 -p "Enter username:" Susername
+           read -t 10 -p "Enter username:" username
            echo "Hello $username"
 
-![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/d0cd4216-889c-47b1-9afc-ae61bc2762e1)
-![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/dc72e7e7-f6b3-428d-a616-61ed9fb86710)
+
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/ad982903-2e1b-484c-bd03-ee1782c663c6)
