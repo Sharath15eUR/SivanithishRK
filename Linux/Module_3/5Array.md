@@ -13,11 +13,10 @@ Array Operations in BASH
 
         echo "All elements of array:${NAME[@]}"
 
-        echo "5th element of the array is:${#NAME[5]}"
+        echo "5th element of the array is:${NAME[4]}"
 
 
-   
-![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/4f87b015-9553-4aac-8712-40eefbc9fbaa)
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/018dccd8-9b78-4b02-8073-961c0f34d552)
 
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/be1c1291-9eae-4f92-988e-bd239de1bff8)
 
-![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/3f693e09-d4cb-4257-88bd-f8587354bb71)
