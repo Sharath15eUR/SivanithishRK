@@ -2,6 +2,7 @@ Basics Of System Administration in Linux
 
 1) Create a new user account and home directory called "Duck"
    
+             
          sudo adduser
          sudo adduser duck
    ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/108501f1-54bf-4abf-8c18-a2e026e7a30d)
@@ -37,12 +38,13 @@ Basics Of System Administration in Linux
         
 
 5) Type this command on the terminal and see the output :
-   du -ch *.txt
-        It shows  memory of the text files in the directory
-        ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/9dbf2c8c-5348-4a2d-a6cd-dee6d125261f)
+
+        du -ch *.txt
+It shows  memory of the text files in the directory
+![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/9dbf2c8c-5348-4a2d-a6cd-dee6d125261f)
 
 
-6) Delete the user account "Duck" permanently along with its home folder.
+7) Delete the user account "Duck" permanently along with its home folder.
 
               sudo userdel -r duck
    ![image](https://github.com/Sharath15eUR/SivanithishRK/assets/79641980/ae8274ec-75d6-4761-88f7-de3f7f24db28)
